@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Score Card</string>
+    <string name="tagline">Track your soccer scores effortlessly</string>
+    <string name="teamAGoals">Team A Goals</string>
+    <string name="TeamBGoals">Team B Goals</string>
+    <string name="goal">Goal</string>
+    <string name="team_a">team A</string>
+    <string name="corner">corner</string>
+    <string name="team_b">team b</string>
+    <string name="reset">Reset</string>
+    <string name="foul">foul</string>
+
 </resources>
