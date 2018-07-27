@@ -30,6 +30,7 @@
                     android:layout_height="119dp"
                     android:layout_gravity="center_horizontal"
                     android:scaleType="centerCrop"
+                    android:contentDescription="@string/soccer_ball_image"
                     android:src="@drawable/soccercolored" />
 
                 <TextView
@@ -63,6 +64,7 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:baselineAligned="false"
                     android:weightSum="2">
 
                     <LinearLayout
